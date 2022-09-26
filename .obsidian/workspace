@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "6fd1dc44d9d7bc36",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d097cfe325a7e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week1/writing_week_1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb9e4fa02b2c5648",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ad4999c12f5e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bcf9e1ea7ab3fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3af223bdfbe725e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cfed1fb16fd4db7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d20d7dfdae63480",
+    "type": "split",
+    "children": [
+      {
+        "id": "417fb3fedcd9a1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e157786381f8d909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week1/writing_week_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10625b66990154bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week1/writing_week_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c4cb09380172ded",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e59f555ef35371e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week1/writing_week_1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24d097cfe325a7e6",
+  "lastOpenFiles": [
+    "Week1/WritingWeek1.md"
+  ]
+}
