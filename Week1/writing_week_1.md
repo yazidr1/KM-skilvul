@@ -8,7 +8,7 @@
 > - Algorithm
 > - Javascript Conditional dan Looping
 
-## Unix Command Line
+# Unix Command Line
 - ### Shell
   Merupakan penerjemah command-line. Sebuah shell memproses perintah perintah dan mengeluarkan hasilnya. contoh: Windows powershell, bash, zsh dll
 - ### Command Line Interface(CLI)
@@ -78,7 +78,7 @@ File System Structure merupakan cara Operating System mengatur bagaimana file ak
 	rm -R LearningMarkdown.md
 	rm -d Week1
 	```
-## Git & Github
+# Git & Github
 ### Git 
 merupakan software free dan open source untuk distribusi version control; melacak perubahan; biasanya untuk kolaborasi bekerja bersama diantara programmers dalam membangun aplikasi
 
@@ -117,7 +117,7 @@ git clone <link_repo>
 cd <dir_project>
 ```
 
-## HTML 
+# HTML 
 > ### Definisi
 > Singkatan dari HyperText Markup Language. Html merupakan bahasa markup untuk memunculkan kerangka dan content halaman web. Dokumen HTML yang berisi tag-tag HTML akan memberitahu browser bagaimana cara menampilkan sebuah konten.
 ### Membuat File HTML
@@ -282,13 +282,13 @@ Terdapat tipe data dasar di JS
 - array []
 
 ### Operator 
-> Binary(butuh 2 operand)[aritmatika(+-*/%),
-> penugasan(=,+=,-=,*=,/=,%=) x += y === x= x+ y
-> perbandingan(==, !=, ===, !==, >, <, >=, < ) output boolean(true, false),
-> logika(&& || !) output boolean(true, false),
-> string(+, "apple" + " " +"pen" = "apple pen")]
-> Ternary(butuh 3 operand (kondisi) ? benar: salah )((x % 2 == 0) ? "genap": "ganjil")[Kondisional]
-> Unary[typeof] typeof("10") //string
+> - Binary(butuh 2 operand)[aritmatika(+-*/%),
+> - penugasan(=,+=,-=,*=,/=,%=) x += y === x= x+ y
+> - perbandingan(==, !=, ===, !==, >, <, >=, < ) output boolean(true, false),
+> - logika(&& || !) output boolean(true, false),
+> - string(+, "apple" + " " +"pen" = "apple pen")]
+> - Ternary(butuh 3 operand (kondisi) ? benar: salah )((x % 2 == 0) ? "genap": "ganjil")[Kondisional]
+> - Unary[typeof] typeof("10") //string
 
 ### Control Flow 
 #### Conditional (If switch)
