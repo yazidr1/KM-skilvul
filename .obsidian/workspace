@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Week1/writing_week_1.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d20d7dfdae63480",
@@ -130,6 +131,13 @@
   },
   "active": "24d097cfe325a7e6",
   "lastOpenFiles": [
+    "LearningMarkdown.md",
+    "Week1/writing_week_1.md",
+    "Pasted image 20220926172337.jpg",
+    "Pasted image 20220926154301.png",
+    "Pasted image 20220926152902.png",
+    "Pasted image 20220926151434.png",
+    "Pasted image 20220926145857.png",
     "Week1/WritingWeek1.md"
   ]
 }

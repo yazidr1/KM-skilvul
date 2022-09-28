@@ -36,11 +36,18 @@ Click on the @icon-camera icon to take a screen shot.
 
 @icon-instagram
 @icon-wand-magic-sparkles
-### <i class="fa fa-wand-magic-sparkles"></i>
+<i style="color: blue;" class="fa fa-wand-magic-sparkles"></i>
+
 @icon-puzzle-piece
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg)
 
 # Heading
 
 and after a heading.
+
+```HTML
+	// Kalau di SCRIPT DILETAK DI head 
+	<script defer src="./script.js"></script
+```
