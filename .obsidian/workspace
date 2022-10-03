@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24d097cfe325a7e6",
+        "id": "371e535ae770c250",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week1/writing_week_1.md",
+            "file": "Week2/README.md.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d20d7dfdae63480",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week1/writing_week_1.md",
+                "file": "Week2/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week1/writing_week_1.md",
+                "file": "Week2/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week1/writing_week_1.md"
+                "file": "Week2/README.md.md"
               }
             }
           }
@@ -129,10 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24d097cfe325a7e6",
+  "active": "371e535ae770c250",
   "lastOpenFiles": [
     "LearningMarkdown.md",
-    "Week1/writing_week_1.md",
+    "Week2/README.md.md",
+    "Week1/README.md.md",
+    "pic_htmltree.gif",
     "Pasted image 20220926172337.jpg",
     "Pasted image 20220926154301.png",
     "Pasted image 20220926152902.png",
