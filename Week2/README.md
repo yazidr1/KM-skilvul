@@ -63,7 +63,7 @@ Merupakan konsep dalam flow data variabel, yang mempengaruhi akses pada variabel
     let warn_teks = document.getElementById("warning");
     }
   ```
-  ### Function
+### Function
 ```js
 // normal notation to use function
 function checkString(s) {
