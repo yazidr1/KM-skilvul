@@ -57,13 +57,13 @@ Merupakan konsep dalam flow data variabel, yang mempengaruhi akses pada variabel
   Variabel yang berada didalam block disebut variabel yang memiliki local scope.
   > Variabel hanya dapat diakses dalam block
   
-  ```js
+```js
   function submit(){
     // warn_teks adalah local variable karena didalam block code function submit
     let warn_teks = document.getElementById("warning");
-    }
-  ```
-  ### Function
+  }
+```
+### Function
 ```js
 // normal notation to use function
 function checkString(s) {
