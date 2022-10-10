@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week2/README.md.md",
+            "file": "Week3/README.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 135.51219177246094
   },
   "right": {
     "id": "5d20d7dfdae63480",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week2/README.md.md",
+                "file": "Week3/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week2/README.md.md",
+                "file": "Week3/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week2/README.md.md"
+                "file": "Week3/README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "371e535ae770c250",
   "lastOpenFiles": [
+    "Week2/README.md",
+    "Week3/README.md",
+    "Week1/README.md",
     "LearningMarkdown.md",
     "Week2/README.md.md",
     "Week1/README.md.md",
     "pic_htmltree.gif",
     "Pasted image 20220926172337.jpg",
     "Pasted image 20220926154301.png",
-    "Pasted image 20220926152902.png",
-    "Pasted image 20220926151434.png",
-    "Pasted image 20220926145857.png",
-    "Week1/WritingWeek1.md"
+    "Pasted image 20220926152902.png"
   ]
 }
