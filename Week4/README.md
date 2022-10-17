@@ -60,7 +60,7 @@ git push origin <branch_name>
 ```
 
 Setelah selesai misalnya menambahkan fitur 
-kita akan merge kode kita dengan branch `dev ` biasanya. Tetapi sebelum kita push baiknya untuk melakukan `git pull origin dev` terlebih dahulu. Baru kita melakukan pull request di github.
+kita akan merge kode kita dengan branch `dev ` biasanya. Tetapi sebelum kita `git push origin <current_branch_name>` baiknya untuk melakukan `git pull origin dev` terlebih dahulu. Baru kita melakukan pull request di github.
 
 ## Responsive 
 Responsive desain pada web merupakan cara yang membuat perubahan yang dinamik pada tampilan web, tergantung pada ukuran layar dan orientasi device(potrait dan landscape) yang digunakan sehingga terlihat dan terasa sama walaupun berbeda ukuran layar.
