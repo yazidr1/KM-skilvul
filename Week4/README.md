@@ -1,6 +1,7 @@
 ## Rangkuman Week 4
 > ## Modul yang dipelajari:
 > - Async, await dan fetch
+> - Collab dengan git & github
 > - Responsive 
 > - Bootstrap
 
@@ -25,6 +26,42 @@ let getAPI = async () => {
 	})
 }
 ```
+## Collab dengan Git & Github
+```bash
+// commit
+git add .
+git commit -m ""
+git push origin <branch>
+
+//make new branch
+git branch <branch_name>
+git checkout -b <branch_name>
+git switch -c <branch_name>
+
+//list branch
+git branch
+
+
+// switch branch
+git checkout <branch_name>
+git switch 
+
+//delete branch
+git branch -D <branch_name>
+
+//download remote
+//git pull == git fetch + git merge
+git fetch origin <branch_name>
+git merge <branch_name>
+git pull origin <branch_name>
+
+// push to remote
+git push origin <branch_name>
+```
+
+Setelah selesai misalnya menambahkan fitur 
+kita akan merge kode kita dengan branch `dev ` biasanya. Tetapi sebelum kita push baiknya untuk melakukan `git pull origin dev` terlebih dahulu. Baru kita melakukan pull request di github.
+
 ## Responsive 
 Responsive desain pada web merupakan cara yang membuat perubahan yang dinamik pada tampilan web, tergantung pada ukuran layar dan orientasi device(potrait dan landscape) yang digunakan sehingga terlihat dan terasa sama walaupun berbeda ukuran layar.
 ### Beberapa faktor supaya web responsive
