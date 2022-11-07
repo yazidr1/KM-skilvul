@@ -204,7 +204,7 @@ Dalam penerapannya baik menggunakan tabel perantara atau tidak saat membuat tabe
   
   [learn more](https://www.indonetsource.com/contoh-penerapan-relasi-many-to-many/)
 
-## DB Normalization
+### DB Normalization
 | Level Normalisasi | Syarat                                                                   |
 | ----------------- | ------------------------------------------------------------------------ |
 | 1NF               | - ga ada urutan dalam penyimpanan data                                   |
@@ -216,7 +216,7 @@ Dalam penerapannya baik menggunakan tabel perantara atau tidak saat membuat tabe
 |                   | tidal ada partial dependency(atribut yg tidak ada hubungan akan dipisah) |
 |                   |                                                                          |
 | 3NF               | Harus dalam bentuk 2NF                                                       |
-|                   |                       tidak ada transtitif depedency(atribut selain primary key tidak bergantung pada atribut selain primary key lain)                                                   |
+|                   |                       tidak ada transtitif depedency(atribut selain primary key tidak bergantung pada atribut selain primary)                                                   |
 
 straight point
 | Level Normalisasi | Syarat                                                  |
