@@ -7,14 +7,6 @@
 > - Web Services and Restful API with Express JS & Sequelize
 
 ## Database Mysql 
->- Peserta mampu memahami Database
->- Peserta mampu memahami Relational Database
->- Peserta mampu memahami Tipe Data pada MySQL
->- Peserta mampu memahami dan melakukan manipulasi query sederhana
-
->- Peserta mampu memahami dan melakukan manipulasi query tingkat lanjut yang sering digunakan
->- Peserta mampu memahami dan membuat relational antar table
-
 - **Database** merupakan set data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang disimpan dalam sebuah sistem komputer. 
 - **MySql** merupakan satu diantara database management system(dbms) relational.
 - **Relational database** adalah database yang memungkinkan tabletable didalamnya memiliki hubungan.  relational database menyimpan data dalam bentuk baris dan kolom dan memungkinkan banyak user mengaksesnya.
